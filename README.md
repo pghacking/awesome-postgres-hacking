@@ -37,6 +37,7 @@
 
 ### Contributing
 
+* [So, you want to be a developer?](https://wiki.postgresql.org/wiki/So,_you_want_to_be_a_developer%3F)
 * [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
 * [Walk-through of implementing simple Postgres patch. From sources to CI.](https://www.youtube.com/watch?v=rihfAnd_leM) 📹 - Andrey Borodin
 * [PGConf.EU 2023, Making your patch more committable](https://www.youtube.com/watch?v=oXJbFy0JJkI) 📹 - Melanie Plageman
@@ -44,6 +45,7 @@
 
 ### General
 
+* [PostgreSQL Backend Flowchart](https://www.postgresql.org/developer/backend/)
 * [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang
 
 ### [Mailing Lists](https://www.postgresql.org/list/)
@@ -59,10 +61,14 @@
 
 ### Planner
 
+* [Recent PostgreSQL Optimizer Improvements](https://www.postgresql.org/files/developer/optimizer.pdf) - Tom Lane, 2003
+* [Inside the PostgreSQL Query Optimizer](https://www.neilconway.org/talks/optimizer/optimizer.pdf) - Neil Conway, 2005
 * [Understand PostgreSQL’s Planner – Simple Scan Paths vs Plans](https://www.highgo.ca/2024/03/22/understand-postgresqls-planner-simple-scan-paths-vs-plans/) - Cary Huang
 * [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
 
 ### Executor
+
+* [Query Evaluation Techniques in PostgreSQL](https://www.neilconway.org/talks/executor.pdf) - Neil Conway, 2007
 
 ### Storage
 
