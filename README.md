@@ -45,8 +45,11 @@
 
 ### General
 
+* [A Tour of PostgreSQL Internals](https://www.postgresql.org/files/developer/tour.pdf) - Tom Lane, 2000
 * [PostgreSQL Backend Flowchart](https://www.postgresql.org/developer/backend/)
 * [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang
+* [Hooks in PostgreSQL](https://wiki.postgresql.org/images/e/e3/Hooks_in_postgresql.pdf) - Guillaume Lelarge
+* [Unofficial documentation for PostgreSQL hooks](https://github.com/taminomara/psql-hooks) - Tamika Nomara
 
 ### [Mailing Lists](https://www.postgresql.org/list/)
 
@@ -56,6 +59,7 @@
 * [Posting Your Patch On pgsql-hackers](https://rhaas.blogspot.com/2024/08/posting-your-patch-on-pgsql-hackers.html) - Robert Haas
 * [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/) - Tomas Vondra
 * [Understanding the Postgres Hackers Mailing List Language](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list) - Greg Sabino Mullane
+* Tip: you get moderated if you post to more than one mailing list on the same message.
 
 ### Parser
 
@@ -76,6 +80,9 @@
 * [PGConf.dev 2024, Problem in PostgreSQL SLRU - And how we are optimizing it](https://www.youtube.com/watch?v=74xAqgS2thY) 📹 - Dilip Kumar
 
 ### Performance Analysis
+
+* [Dynamic Tracing](https://www.postgresql.org/docs/current/dynamic-trace.html)
+* [Citus Con 2022, Analyzing Postgres performance problems using perf and eBPF](https://www.youtube.com/watch?v=HghP4D72Noc) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2022-04-12-cituscon/perf-bpf.pdf)
 
 ### Tools
 
