@@ -69,6 +69,7 @@
 * [Inside the PostgreSQL Query Optimizer](https://www.neilconway.org/talks/optimizer/optimizer.pdf) - Neil Conway, 2005
 * [Understand PostgreSQL’s Planner – Simple Scan Paths vs Plans](https://www.highgo.ca/2024/03/22/understand-postgresqls-planner-simple-scan-paths-vs-plans/) - Cary Huang
 * [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
+* [PGCon 2019, Learning to Hack on Postgres Planner](https://www.youtube.com/watch?v=j7UPVU5UCV4) 📹 - Melanie Plageman
 
 ### Executor
 
