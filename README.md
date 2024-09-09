@@ -37,6 +37,7 @@
 
 ### Contributing
 
+* [Developer FAQ](https://wiki.postgresql.org/wiki/Developer_FAQ)
 * [So, you want to be a developer?](https://wiki.postgresql.org/wiki/So,_you_want_to_be_a_developer%3F)
 * [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
 * [Walk-through of implementing simple Postgres patch. From sources to CI.](https://www.youtube.com/watch?v=rihfAnd_leM) 📹 - Andrey Borodin
