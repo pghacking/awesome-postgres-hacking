@@ -87,6 +87,7 @@
 
 * [Dynamic Tracing](https://www.postgresql.org/docs/current/dynamic-trace.html)
 * [Citus Con 2022, Analyzing Postgres performance problems using perf and eBPF](https://www.youtube.com/watch?v=HghP4D72Noc) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2022-04-12-cituscon/perf-bpf.pdf)
+* [PGConf.dev 2024, Analyzing cacheline contention using perf c2c](https://www.youtube.com/watch?v=dLrqQOCRFOU) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2024-05-29-pgconf-dev-c2c/postgres-perf-c2c.pdf)
 
 ### Tools
 
