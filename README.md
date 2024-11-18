@@ -93,6 +93,7 @@
 
 * [pg_plugins](https://github.com/michaelpq/pg_plugins) - Michael Paquier - Gathering of template plugins for PostgreSQL: background workers, logical replication things, etc.
 * [.devcontainer](https://github.com/pghacking/.devcontainer) - Junwang Zhao - Unofficial devcontainer config for Postgres
+* [PostgreSQL Hacker Helper](https://github.com/ashenBlade/postgres-dev-helper) - Sergey Solovev - VS Code extension for PostgreSQL core development: exploring Node variables, formatting, etc.
 
 ## Extension Hacking
 
