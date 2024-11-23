@@ -1,6 +1,6 @@
 # Awesome PostgreSQL Hacking [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
+[<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right" width="100">](https://www.postgresql.org/)
 
 > A curated list of awesome PostgreSQL hacking resources, inspired by [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 
@@ -69,6 +69,7 @@
 * [Recent PostgreSQL Optimizer Improvements](https://www.postgresql.org/files/developer/optimizer.pdf) - Tom Lane, 2003
 * [Inside the PostgreSQL Query Optimizer](https://www.neilconway.org/talks/optimizer/optimizer.pdf) - Neil Conway, 2005
 * [PGCon 2011, Hacking the Query Planner](https://www.pgcon.org/2011/schedule/attachments/188_Planner%20talk.pdf) - Tom Lane
+* [PGCon 2018, What's in a Plan](https://www.youtube.com/watch?v=YH0zRk7NSfE) 📹 - Robert Haas - [slides](https://drive.google.com/file/d/1U5ZO8FwiaHZqX3nPl40TOMKjWmOVqH_f/view)
 * [PGCon 2020, Hacking the Query Planner, Again](https://www.youtube.com/watch?v=wTg02tniO2A) 📹 - Richard Guo - [slides](https://www.pgcon.org/events/pgcon_2020/sessions/session/39/slides/7/Hacking%20the%20Query%20Planner,%20Again.pdf)
 * [Understand PostgreSQL’s Planner – Simple Scan Paths vs Plans](https://www.highgo.ca/2024/03/22/understand-postgresqls-planner-simple-scan-paths-vs-plans/) - Cary Huang
 * [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
