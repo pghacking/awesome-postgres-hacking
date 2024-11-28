@@ -65,6 +65,8 @@
 
 ### Parser
 
+- [PGCon 2019, Introducing PostgreSQL SQL Parser](https://www.youtube.com/watch?v=LQ6szIyLDfE) - Bo Peng - [slides](https://www.pgcon.org/2019/schedule/attachments/556_PostgreSQL_SQL_parser.pdf)
+
 ### Planner
 
 - [Recent PostgreSQL Optimizer Improvements](https://www.postgresql.org/files/developer/optimizer.pdf) - Tom Lane, 2003.
