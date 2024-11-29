@@ -65,7 +65,7 @@
 
 ### Parser
 
-- [PGCon 2019, Introducing PostgreSQL SQL Parser](https://www.youtube.com/watch?v=LQ6szIyLDfE) - Bo Peng - [slides](https://www.pgcon.org/2019/schedule/attachments/556_PostgreSQL_SQL_parser.pdf)
+- [PGCon 2019, Introducing PostgreSQL SQL Parser](https://www.youtube.com/watch?v=LQ6szIyLDfE) 📹 - Bo Peng - [slides](https://www.pgcon.org/2019/schedule/attachments/556_PostgreSQL_SQL_parser.pdf)
 
 ### Planner
 
@@ -94,6 +94,7 @@
 ### Performance Analysis
 
 - [Dynamic Tracing](https://www.postgresql.org/docs/current/dynamic-trace.html)
+- [PgCon 2019, Let's Dtrace Postgres](https://www.youtube.com/watch?v=Brt41xnMZqo) 📹 - Adam Wolk - [slides](https://www.pgcon.org/2019/schedule/attachments/541_Let's%20(D)Trace%20Postgres%20tracing%20the%20madness.pdf)
 - [Citus Con 2022, Analyzing Postgres performance problems using perf and eBPF](https://www.youtube.com/watch?v=HghP4D72Noc) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2022-04-12-cituscon/perf-bpf.pdf)
 - [PGConf.dev 2024, Analyzing cacheline contention using perf c2c](https://www.youtube.com/watch?v=dLrqQOCRFOU) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2024-05-29-pgconf-dev-c2c/postgres-perf-c2c.pdf)
 
