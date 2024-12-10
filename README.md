@@ -74,7 +74,6 @@
 - [PGCon 2011, Hacking the Query Planner](https://www.pgcon.org/2011/schedule/attachments/188_Planner%20talk.pdf) - Tom Lane.
 - [PGCon 2018, What's in a Plan](https://www.youtube.com/watch?v=YH0zRk7NSfE) 📹 - Robert Haas - [slides](https://drive.google.com/file/d/1U5ZO8FwiaHZqX3nPl40TOMKjWmOVqH_f/view)
 - [PGCon 2020, Hacking the Query Planner, Again](https://www.youtube.com/watch?v=wTg02tniO2A) 📹 - Richard Guo - [slides](https://www.pgcon.org/events/pgcon_2020/sessions/session/39/slides/7/Hacking%20the%20Query%20Planner,%20Again.pdf)
-- [Understand PostgreSQL's Planner – Simple Scan Paths vs Plans](https://www.highgo.ca/2024/03/22/understand-postgresqls-planner-simple-scan-paths-vs-plans/) - Cary Huang.
 - [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
 - [PGCon 2019, Learning to Hack on Postgres Planner](https://www.youtube.com/watch?v=j7UPVU5UCV4) 📹 - Melanie Plageman
 
