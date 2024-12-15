@@ -52,7 +52,7 @@
 - [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang.
 - [Hooks in PostgreSQL](https://wiki.postgresql.org/images/e/e3/Hooks_in_postgresql.pdf) - Guillaume Lelarge.
 - [Unofficial documentation for PostgreSQL hooks](https://github.com/taminomara/psql-hooks) - Tamika Nomara.
-- [PGConf.EU 2024, The Wire Protocol](https://www.youtube.com/watch?v=FBPubrwGKhI) 📹 - Heikki Linnakangas
+- [PGConf.EU 2024, The Wire Protocol](https://www.youtube.com/watch?v=FBPubrwGKhI) 📹 - Heikki Linnakangas - [slides](https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5897/slides/589/Postgres%20protocol.pdf)
 
 ### [Mailing Lists](https://www.postgresql.org/list/)
 
