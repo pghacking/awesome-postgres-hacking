@@ -47,11 +47,11 @@
 
 ### General
 
-- [A Tour of PostgreSQL Internals](https://www.postgresql.org/files/developer/tour.pdf) - Tom Lane, 2000.
+- [A Tour of PostgreSQL Internals](https://www.postgresql.org/files/developer/tour.pdf) - Tom Lane, 2000
 - [PostgreSQL Backend Flowchart](https://www.postgresql.org/developer/backend/)
-- [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang.
-- [Hooks in PostgreSQL](https://wiki.postgresql.org/images/e/e3/Hooks_in_postgresql.pdf) - Guillaume Lelarge.
-- [Unofficial documentation for PostgreSQL hooks](https://github.com/taminomara/psql-hooks) - Tamika Nomara.
+- [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang
+- [Hooks in PostgreSQL](https://wiki.postgresql.org/images/e/e3/Hooks_in_postgresql.pdf) - Guillaume Lelarge
+- [Unofficial documentation for PostgreSQL hooks](https://github.com/taminomara/psql-hooks) - Tamika Nomara
 - [PGConf.EU 2024, The Wire Protocol](https://www.youtube.com/watch?v=FBPubrwGKhI) 📹 - Heikki Linnakangas - [slides](https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5897/slides/589/Postgres%20protocol.pdf)
 
 ### [Mailing Lists](https://www.postgresql.org/list/)
@@ -59,9 +59,9 @@
 - [pgsql-hackers](https://www.postgresql.org/list/pgsql-hackers/) - The PostgreSQL developers team lives here. Discussion of current development issues, problems and bugs, and proposed new features. If your question cannot be answered by people in the other lists, and it is likely that only a developer will know the answer, you may re-post your question in this list. You must try elsewhere first!
 - [pgsql-committers](https://www.postgresql.org/list/pgsql-committers/) - Notification of git commits are sent to this list. Do not post here!
 - [pgsql-bugs](https://www.postgresql.org/list/pgsql-bugs/) - If you find a bug, please use the [bug reporting form](http://www.postgresql.org/support/submitbug).
-- [Posting Your Patch On pgsql-hackers](https://rhaas.blogspot.com/2024/08/posting-your-patch-on-pgsql-hackers.html) - Robert Haas.
-- [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/) - Tomas Vondra.
-- [Understanding the Postgres Hackers Mailing List Language](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list) - Greg Sabino Mullane.
+- [Posting Your Patch On pgsql-hackers](https://rhaas.blogspot.com/2024/08/posting-your-patch-on-pgsql-hackers.html) - Robert Haas
+- [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/) - Tomas Vondra
+- [Understanding the Postgres Hackers Mailing List Language](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list) - Greg Sabino Mullane
 - Tip: you get moderated if you post to more than one mailing list on the same message.
 
 ### Parser
@@ -70,9 +70,9 @@
 
 ### Planner
 
-- [Recent PostgreSQL Optimizer Improvements](https://www.postgresql.org/files/developer/optimizer.pdf) - Tom Lane, 2003.
-- [Inside the PostgreSQL Query Optimizer](https://www.neilconway.org/talks/optimizer/optimizer.pdf) - Neil Conway, 2005.
-- [PGCon 2011, Hacking the Query Planner](https://www.pgcon.org/2011/schedule/attachments/188_Planner%20talk.pdf) - Tom Lane.
+- [Recent PostgreSQL Optimizer Improvements](https://www.postgresql.org/files/developer/optimizer.pdf) - Tom Lane, 2003
+- [Inside the PostgreSQL Query Optimizer](https://www.neilconway.org/talks/optimizer/optimizer.pdf) - Neil Conway, 2005
+- [PGCon 2011, Hacking the Query Planner](https://www.pgcon.org/2011/schedule/attachments/188_Planner%20talk.pdf) - Tom Lane
 - [PGCon 2018, What's in a Plan](https://www.youtube.com/watch?v=YH0zRk7NSfE) 📹 - Robert Haas - [slides](https://drive.google.com/file/d/1U5ZO8FwiaHZqX3nPl40TOMKjWmOVqH_f/view)
 - [PGCon 2020, Hacking the Query Planner, Again](https://www.youtube.com/watch?v=wTg02tniO2A) 📹 - Richard Guo - [slides](https://www.pgcon.org/events/pgcon_2020/sessions/session/39/slides/7/Hacking%20the%20Query%20Planner,%20Again.pdf)
 - [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
