@@ -86,6 +86,7 @@
 
 ### Storage
 
+- [PGCon 2019, Pluggable able Access Methods](https://www.youtube.com/watch?v=5RCkZl5HNiQ) - 📹 - Pankaj Kapoor - [slides](https://www.pgcon.org/2019/schedule/attachments/536_pgcon2019_pluggable_table_AM_V1.3.pdf)
 - [PGCon 2022, Breaking away from FREEZE and Wraparound](https://www.youtube.com/watch?v=4tfyT9Putzo) 📹 - Masahiko Sawada
 - [PGConf.dev 2024, Problem in PostgreSQL SLRU - And how we are optimizing it](https://www.youtube.com/watch?v=74xAqgS2thY) 📹 - Dilip Kumar
 
