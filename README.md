@@ -80,6 +80,7 @@
 - [CMU Database Group, PostgreSQL Optimizer Methodology](https://www.youtube.com/watch?v=XA3SBgcZwtE) 📹 - Robert Haas
 - [PGCon 2019, Learning to Hack on Postgres Planner](https://www.youtube.com/watch?v=j7UPVU5UCV4) 📹 - Melanie Plageman
 - [PGConf.EU 2024, A Deep Dive into Postgres Statistics](https://www.youtube.com/watch?v=ApAClPFJ_rU) 📹 - Louise Grandjonc
+- [PostgreSQL planner development and debugging](https://dev.to/ashenblade/postgresql-planner-development-and-debugging-47mc) - Sergey Solovev, 2025
 
 ### Executor
 
