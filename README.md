@@ -69,6 +69,8 @@
 ### Parser
 
 - [PGCon 2019, Introducing PostgreSQL SQL Parser](https://www.youtube.com/watch?v=LQ6szIyLDfE) 📹 - Bo Peng - [slides](https://www.pgcon.org/2019/schedule/attachments/556_PostgreSQL_SQL_parser.pdf)
+- [flex & bison](https://www.oreilly.com/library/view/flex-bison/9780596805418/ch01.html) by John Levine, a reference book will help you understand how `scan.l` and `gram.y` work.
+- [Lexical Analysis With Flex, for Flex 2.6.3](https://www.cs.virginia.edu/~cr4bd/flex-manual/index.html)
 
 ### Planner
 
