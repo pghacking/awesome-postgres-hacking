@@ -30,6 +30,7 @@
 
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - Hironobu SUZUKI - The main purposes of this document are to explain how each subsystem works, and to provide the whole picture of PostgreSQL.
 - [PostgreSQL 14 Internals](https://edu.postgrespro.com/postgresql_internals-14_en.pdf) - Egor Rogov - This book is for those who will not settle for a black-box approach when working with a database.
+- [DeepWiki postgres](https://deepwiki.com/postgres/postgres) - DeepWiki generated up-to-date postgres documentation.
 
 ### Community
 
